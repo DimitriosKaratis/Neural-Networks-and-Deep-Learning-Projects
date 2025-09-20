@@ -1,0 +1,6 @@
+k-NN (k=1) Accuracy Normalized: 35.39%, train_acc: 100.00%
+Elapsed Time: 65.31 seconds
+k-NN (k=3) Accuracy Normalized: 33.03%, train_acc: 57.90%
+Elapsed Time: 64.91 seconds
+Nearest Centroid Accuracy Normalized: 27.74%, train_acc: 26.97%
+Elapsed Time: 2.16 seconds

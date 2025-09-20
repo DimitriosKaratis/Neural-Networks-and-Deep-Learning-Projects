@@ -1,0 +1,78 @@
+Performing Grid Search...
+
+Testing parameters: C=0.001, kernel=linear
+Elapsed Time: 75.04 seconds
+Accuracy = 82.38% (8238/10000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 82.95% (1659/2000) (classification)
+F1 Score: 0.8295
+Number of Support Vectors: 5072
+Training Set Size: 10000
+Percentage of Support Vectors: 50.72%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, kernel=linear
+Elapsed Time: 76.47 seconds
+Accuracy = 84.02% (8402/10000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 82.4% (1648/2000) (classification)
+F1 Score: 0.8240
+Number of Support Vectors: 4486
+Training Set Size: 10000
+Percentage of Support Vectors: 44.86%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, kernel=linear
+Elapsed Time: 102.57 seconds
+Accuracy = 86.45% (8645/10000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 81.9% (1638/2000) (classification)
+F1 Score: 0.8190
+Number of Support Vectors: 4227
+Training Set Size: 10000
+Percentage of Support Vectors: 42.27%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, kernel=linear
+Elapsed Time: 270.16 seconds
+Accuracy = 89.14% (8914/10000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 80% (1600/2000) (classification)
+F1 Score: 0.7998
+Number of Support Vectors: 3997
+Training Set Size: 10000
+Percentage of Support Vectors: 39.97%
+Predicted Labels: ['airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, kernel=linear
+
+WARNING: reaching max number of iterations
+Elapsed Time: 1316.50 seconds
+Accuracy = 91.57% (9157/10000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 78.15% (1563/2000) (classification)
+F1 Score: 0.7813
+Number of Support Vectors: 3704
+Training Set Size: 10000
+Percentage of Support Vectors: 37.04%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'automobile', 'airplane', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+
+Grid Search Complete
+Best Parameters: {'C': 10}
+Plot saved as 'grid_search_no_pca_no_rot_linear.png'

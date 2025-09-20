@@ -1,0 +1,3 @@
+k-NN (k=1) Accuracy Normalized: 71.50%
+k-NN (k=3) Accuracy Normalized: 69.45%
+Nearest Centroid Accuracy Normalized: 72.30%

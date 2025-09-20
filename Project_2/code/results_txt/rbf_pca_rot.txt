@@ -1,0 +1,512 @@
+Optimal number of components: 209 for 95.0% variance
+
+Performing Grid Search...
+
+Testing parameters: C=0.001, gamma=0.001, kernel=rbf
+Elapsed Time: 49.42 seconds
+Accuracy = 70.96% (14192/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 72.45% (1449/2000) (classification)
+F1 Score: 0.7239
+Number of Support Vectors: 19588
+Training Set Size: 20000
+Percentage of Support Vectors: 97.94%
+Predicted Labels: ['airplane', 'automobile', 'airplane', 'airplane', 'airplane', 'airplane', 'airplane', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.001, gamma=0.01, kernel=rbf
+Elapsed Time: 48.24 seconds
+Accuracy = 66.77% (13354/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 67.65% (1353/2000) (classification)
+F1 Score: 0.6442
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'airplane', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.001, gamma=0.1, kernel=rbf
+Elapsed Time: 48.79 seconds
+Accuracy = 50.465% (10093/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50.4% (1008/2000) (classification)
+F1 Score: 0.3422
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.001, gamma=1, kernel=rbf
+Elapsed Time: 48.28 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 51.55% (1031/2000) (classification)
+F1 Score: 0.3669
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.001, gamma=10, kernel=rbf
+Elapsed Time: 44.52 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.001, gamma=100, kernel=rbf
+Elapsed Time: 43.38 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, gamma=0.001, kernel=rbf
+Elapsed Time: 37.16 seconds
+Accuracy = 78.285% (15657/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 79.95% (1599/2000) (classification)
+F1 Score: 0.7993
+Number of Support Vectors: 14618
+Training Set Size: 20000
+Percentage of Support Vectors: 73.09%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, gamma=0.01, kernel=rbf
+Elapsed Time: 39.04 seconds
+Accuracy = 79.01% (15802/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 79.25% (1585/2000) (classification)
+F1 Score: 0.7889
+Number of Support Vectors: 15125
+Training Set Size: 20000
+Percentage of Support Vectors: 75.62%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'automobile', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, gamma=0.1, kernel=rbf
+Elapsed Time: 45.43 seconds
+Accuracy = 50.465% (10093/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50.4% (1008/2000) (classification)
+F1 Score: 0.3422
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, gamma=1, kernel=rbf
+Elapsed Time: 43.44 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 51.55% (1031/2000) (classification)
+F1 Score: 0.3669
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, gamma=10, kernel=rbf
+Elapsed Time: 44.41 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.01, gamma=100, kernel=rbf
+Elapsed Time: 43.52 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, gamma=0.001, kernel=rbf
+Elapsed Time: 33.21 seconds
+Accuracy = 82.825% (16565/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 84.3% (1686/2000) (classification)
+F1 Score: 0.8429
+Number of Support Vectors: 10828
+Training Set Size: 20000
+Percentage of Support Vectors: 54.14%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, gamma=0.01, kernel=rbf
+Elapsed Time: 31.96 seconds
+Accuracy = 87.125% (17425/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 86.7% (1734/2000) (classification)
+F1 Score: 0.8667
+Number of Support Vectors: 10441
+Training Set Size: 20000
+Percentage of Support Vectors: 52.20%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, gamma=0.1, kernel=rbf
+Elapsed Time: 49.95 seconds
+Accuracy = 50.545% (10109/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50.4% (1008/2000) (classification)
+F1 Score: 0.3422
+Number of Support Vectors: 19998
+Training Set Size: 20000
+Percentage of Support Vectors: 99.99%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, gamma=1, kernel=rbf
+Elapsed Time: 44.02 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 51.55% (1031/2000) (classification)
+F1 Score: 0.3669
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, gamma=10, kernel=rbf
+Elapsed Time: 43.96 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=0.1, gamma=100, kernel=rbf
+Elapsed Time: 43.99 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, gamma=0.001, kernel=rbf
+Elapsed Time: 23.04 seconds
+Accuracy = 87.285% (17457/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 87.65% (1753/2000) (classification)
+F1 Score: 0.8765
+Number of Support Vectors: 8431
+Training Set Size: 20000
+Percentage of Support Vectors: 42.16%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, gamma=0.01, kernel=rbf
+Elapsed Time: 57.04 seconds
+Accuracy = 98.23% (19646/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 91.15% (1823/2000) (classification)
+F1 Score: 0.9115
+Number of Support Vectors: 8822
+Training Set Size: 20000
+Percentage of Support Vectors: 44.11%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, gamma=0.1, kernel=rbf
+Elapsed Time: 154.21 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 63.95% (1279/2000) (classification)
+F1 Score: 0.5877
+Number of Support Vectors: 19773
+Training Set Size: 20000
+Percentage of Support Vectors: 98.86%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'airplane', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, gamma=1, kernel=rbf
+Elapsed Time: 117.66 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, gamma=10, kernel=rbf
+Elapsed Time: 128.56 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=1, gamma=100, kernel=rbf
+Elapsed Time: 106.99 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, gamma=0.001, kernel=rbf
+Elapsed Time: 29.00 seconds
+Accuracy = 92.995% (18599/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 90.65% (1813/2000) (classification)
+F1 Score: 0.9065
+Number of Support Vectors: 6744
+Training Set Size: 20000
+Percentage of Support Vectors: 33.72%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, gamma=0.01, kernel=rbf
+Elapsed Time: 104.66 seconds
+Accuracy = 99.995% (19999/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 91.3% (1826/2000) (classification)
+F1 Score: 0.9130
+Number of Support Vectors: 8898
+Training Set Size: 20000
+Percentage of Support Vectors: 44.49%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, gamma=0.1, kernel=rbf
+Elapsed Time: 152.28 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 65.4% (1308/2000) (classification)
+F1 Score: 0.6088
+Number of Support Vectors: 19771
+Training Set Size: 20000
+Percentage of Support Vectors: 98.86%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'airplane', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, gamma=1, kernel=rbf
+Elapsed Time: 156.89 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 19999
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, gamma=10, kernel=rbf
+Elapsed Time: 140.19 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=10, gamma=100, kernel=rbf
+Elapsed Time: 123.82 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 19999
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=100, gamma=0.001, kernel=rbf
+Elapsed Time: 96.13 seconds
+Accuracy = 98.455% (19691/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 91.35% (1827/2000) (classification)
+F1 Score: 0.9135
+Number of Support Vectors: 5508
+Training Set Size: 20000
+Percentage of Support Vectors: 27.54%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=100, gamma=0.01, kernel=rbf
+Elapsed Time: 109.90 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 91.25% (1825/2000) (classification)
+F1 Score: 0.9125
+Number of Support Vectors: 8897
+Training Set Size: 20000
+Percentage of Support Vectors: 44.48%
+Predicted Labels: ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=100, gamma=0.1, kernel=rbf
+Elapsed Time: 155.66 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 65.4% (1308/2000) (classification)
+F1 Score: 0.6088
+Number of Support Vectors: 19771
+Training Set Size: 20000
+Percentage of Support Vectors: 98.86%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'airplane', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=100, gamma=1, kernel=rbf
+Elapsed Time: 157.26 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 19999
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=100, gamma=10, kernel=rbf
+Elapsed Time: 141.18 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 20000
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+Testing parameters: C=100, gamma=100, kernel=rbf
+Elapsed Time: 138.52 seconds
+Accuracy = 100% (20000/20000) (classification)
+
+Evaluating model on the test set...
+Accuracy = 50% (1000/2000) (classification)
+F1 Score: 0.3333
+Number of Support Vectors: 19999
+Training Set Size: 20000
+Percentage of Support Vectors: 100.00%
+Predicted Labels: ['automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile', 'automobile']
+Actual Labels:    ['airplane', 'automobile', 'automobile', 'airplane', 'airplane', 'airplane', 'automobile', 'airplane', 'airplane', 'automobile']
+
+
+
+Grid Search Complete
+Best Parameters: {'C': 100, 'gamma': 0.001}
+Plot saved as 'grid_search_pca_rot_rbf.png'

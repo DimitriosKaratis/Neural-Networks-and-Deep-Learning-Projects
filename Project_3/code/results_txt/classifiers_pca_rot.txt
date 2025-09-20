@@ -1,0 +1,8 @@
+Optimal number of components: 209 for 95.0% variance
+
+k-NN (k=1) Accuracy Normalized (Augmented): 37.10%, train_acc: 100.00%
+Elapsed Time: 24.64 seconds
+k-NN (k=3) Accuracy Normalized (Augmented): 36.68%, train_acc: 93.27%
+Elapsed Time: 24.65 seconds
+Nearest Centroid Accuracy Normalized (Augmented): 27.63%, train_acc: 26.74%
+Elapsed Time: 0.52 seconds

@@ -1,0 +1,93 @@
+Optimal number of components: 209 for 95.0% variance
+
+For centr_method = kmeans and num_centers = 10 :
+Elapsed Time: 2.50 seconds
+Training Accuracy: 27.44%
+Test Accuracy: 28.15%
+Predicted Labels: ['frog', 'ship', 'ship', 'ship', 'deer', 'frog', 'frog', 'frog', 'airplane', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 20 :
+Elapsed Time: 3.33 seconds
+Training Accuracy: 32.74%
+Test Accuracy: 33.78%
+Predicted Labels: ['dog', 'ship', 'ship', 'ship', 'deer', 'frog', 'frog', 'frog', 'dog', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 50 :
+Elapsed Time: 7.62 seconds
+Training Accuracy: 37.89%
+Test Accuracy: 37.78%
+Predicted Labels: ['cat', 'ship', 'ship', 'ship', 'deer', 'frog', 'frog', 'frog', 'dog', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 70 :
+Elapsed Time: 9.57 seconds
+Training Accuracy: 39.71%
+Test Accuracy: 40.03%
+Predicted Labels: ['cat', 'ship', 'ship', 'ship', 'deer', 'frog', 'cat', 'deer', 'dog', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 100 :
+Elapsed Time: 14.23 seconds
+Training Accuracy: 41.42%
+Test Accuracy: 41.20%
+Predicted Labels: ['cat', 'ship', 'ship', 'ship', 'deer', 'frog', 'cat', 'deer', 'dog', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 150 :
+Elapsed Time: 17.23 seconds
+Training Accuracy: 42.80%
+Test Accuracy: 42.63%
+Predicted Labels: ['cat', 'ship', 'ship', 'ship', 'deer', 'frog', 'cat', 'deer', 'dog', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 200 :
+Elapsed Time: 22.00 seconds
+Training Accuracy: 44.25%
+Test Accuracy: 43.89%
+Predicted Labels: ['cat', 'ship', 'ship', 'ship', 'deer', 'frog', 'cat', 'frog', 'bird', 'ship']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 300 :
+Elapsed Time: 32.10 seconds
+Training Accuracy: 46.15%
+Test Accuracy: 46.30%
+Predicted Labels: ['cat', 'truck', 'ship', 'ship', 'deer', 'frog', 'automobile', 'frog', 'bird', 'automobile']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 500 :
+Elapsed Time: 51.92 seconds
+Training Accuracy: 48.31%
+Test Accuracy: 48.05%
+Predicted Labels: ['cat', 'truck', 'ship', 'ship', 'deer', 'frog', 'cat', 'frog', 'bird', 'automobile']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 1000 :
+Elapsed Time: 86.89 seconds
+Training Accuracy: 51.73%
+Test Accuracy: 50.69%
+Predicted Labels: ['cat', 'truck', 'ship', 'ship', 'deer', 'frog', 'automobile', 'frog', 'dog', 'automobile']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 1500 :
+Elapsed Time: 134.89 seconds
+Training Accuracy: 54.01%
+Test Accuracy: 51.73%
+Predicted Labels: ['cat', 'truck', 'ship', 'ship', 'deer', 'frog', 'automobile', 'frog', 'dog', 'automobile']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 2000 :
+Elapsed Time: 171.88 seconds
+Training Accuracy: 55.78%
+Test Accuracy: 52.68%
+Predicted Labels: ['cat', 'ship', 'ship', 'airplane', 'deer', 'frog', 'automobile', 'frog', 'dog', 'automobile']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+
+For centr_method = kmeans and num_centers = 3000 :
+Elapsed Time: 277.55 seconds
+Training Accuracy: 58.83%
+Test Accuracy: 53.80%
+Predicted Labels: ['cat', 'ship', 'ship', 'airplane', 'deer', 'frog', 'cat', 'frog', 'cat', 'automobile']
+Actual Labels:    ['cat', 'ship', 'ship', 'airplane', 'frog', 'frog', 'automobile', 'frog', 'cat', 'automobile']
+Plot saved as 'kmeans_pca_rot.png'

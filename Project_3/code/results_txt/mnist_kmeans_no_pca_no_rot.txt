@@ -1,0 +1,20 @@
+For center_method = kmeans and num_centers = 50 :
+Elapsed Time: 14.06 seconds
+Training Accuracy: 87.61%
+Test Accuracy: 88.40%
+Predicted Labels: ['7', '2', '1', '0', '4', '1', '4', '9', '4', '9']
+Actual Labels:    ['7', '2', '1', '0', '4', '1', '4', '9', '5', '9']
+
+For center_method = kmeans and num_centers = 500 :
+Elapsed Time: 109.39 seconds
+Training Accuracy: 95.58%
+Test Accuracy: 95.61%
+Predicted Labels: ['7', '2', '1', '0', '4', '1', '4', '9', '5', '9']
+Actual Labels:    ['7', '2', '1', '0', '4', '1', '4', '9', '5', '9']
+
+For center_method = kmeans and num_centers = 1000 :
+Elapsed Time: 217.76 seconds
+Training Accuracy: 96.81%
+Test Accuracy: 96.51%
+Predicted Labels: ['7', '2', '1', '0', '4', '1', '4', '9', '6', '9']
+Actual Labels:    ['7', '2', '1', '0', '4', '1', '4', '9', '5', '9']

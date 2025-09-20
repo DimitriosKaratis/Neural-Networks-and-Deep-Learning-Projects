@@ -1,0 +1,5 @@
+Optimal number of components: 217 for 95.0% variance
+
+k-NN (k=1) Accuracy Normalized: 74.95%
+k-NN (k=3) Accuracy Normalized: 72.35%
+Nearest Centroid Accuracy Normalized: 72.30%
