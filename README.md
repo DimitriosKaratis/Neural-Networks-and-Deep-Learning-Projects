@@ -1,6 +1,6 @@
 # Machine Learning & Neural Networks Projects
 
-This repository contains implementations of multiple projects featuring **Neural Networks and Machine Learning**, developed as part of the course *Neural-Networks-and-Deep-Learning* at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.  
+This repository contains implementations of multiple projects featuring **Neural Networks and Machine Learning**, developed as part of the *Neural-Networks-and-Deep-Learning* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.  
 
 The projects cover a variety of architectures and algorithms including **MLPs, CNNs, k-NN, Nearest Centroid, SVMs, RBF Networks, Hebbian Learning, and Autoencoders**.  
 
