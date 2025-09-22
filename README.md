@@ -4,7 +4,7 @@ This repository contains implementations of multiple projects featuring **Neural
 
 The projects cover a variety of architectures and algorithms including **MLPs, CNNs, k-NN, Nearest Centroid, SVMs, RBF Networks, Hebbian Learning, and Autoencoders**.  
 
----
+--- 
 
 ## 🧠 Project 1: Feedforward Neural Network (MLP / CNN)
 
